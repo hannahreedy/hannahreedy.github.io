@@ -1,0 +1,59 @@
+
+body {
+	font-family:'Archivo Narrow', sans-serif;
+}
+
+h1 {
+	font-size:36px;
+	font-weight:bold;
+}
+
+h2 {
+	font-size:22px;
+	font-weight:normal;
+	margin:0;
+}
+
+h3 {
+	font-size:18px;
+	font-weight: normal;
+	margin-top:5;
+}
+
+h4 {
+	font-size:13px;
+	margin:0;
+}
+
+p {
+	font-size: 14px;
+}
+
+#name {
+	margin:0;
+	padding:0;
+}
+
+.line {
+	border-top:3px solid #2E8B57	;
+}
+
+.content-sections {
+	color: #2E8B57;
+	text-transform: uppercase;
+	margin:0;
+	padding:0;
+	font-weight:bold;
+}
+
+.padding {
+	margin-left:150px;
+}
+
+#shift {
+	display:block;
+}
+
+.description {
+	margin-bottom:0;
+}
